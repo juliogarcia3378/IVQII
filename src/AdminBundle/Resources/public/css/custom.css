@@ -1,0 +1,93 @@
+
+.fa-groups{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -8px, -19px -51px;
+}
+
+.fa-administrator{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -52px, -19px -51px;
+}
+.fa-advertiser{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -97px, -19px -51px;
+}
+.fa-consumer-banner{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -140px, -19px -51px;
+}
+.fa-gallery{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -183px, -19px -51px;
+}
+.fa-members{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -226px, -19px -51px;
+}
+.fa-events{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -274px, -19px -51px;
+}
+.fa-coupons{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -317px, -19px -51px;
+}
+.fa-surveys{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -360px, -19px -51px;
+}
+.fa-broadcast{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -406px, -19px -51px;
+}
+.fa-products{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -448px, -19px -51px;
+}
+.fa-sales{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -496px, -19px -51px;
+}
+.fa-reports{
+    background-image: url('../images/icons/icons.png');
+    height: 25px;
+    width: 25px!important;
+    background-position: -7px -538px, -19px -51px;
+}
+.tiny a:first-child{
+	margin-right: 20px;
+}
+.btn-add{
+    background-image: url('../images/add.png');
+    height: 54px;
+    width: 54px!important;
+    margin-right: 200px;
+    margin-top: 51px;
+}
+
+
+
